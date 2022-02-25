@@ -1,0 +1,43 @@
+img{
+    width:200px;
+    border-radius: 500px;
+}
+body{
+    text-align: center;
+    font-size: xx-large;
+}
+#pingu{
+    background-color: rgb(0, 0, 255);
+    color: rgb(0, 238, 255);
+    padding-top: 50px ;
+}
+h1{
+   font-family: fantasy; 
+}
+p{
+font-size: xx-large;
+}
+ul{
+    cursor: pointer;
+    position: absolute;
+    list-style: none;
+    position: fixed;
+    background: cyan;
+    width: 100%;
+    top: 0px;
+    margin-top: 0px;
+}
+li:hover{
+font-size: 50px;
+}
+li{
+    float: left;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#pingu2{
+    padding-top: 50px;
+}
+#mapa iframe{
+    width: 100%;
+}
